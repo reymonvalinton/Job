@@ -123,7 +123,7 @@ include("configure1.php");
         <div class="col-sm-3 col-lg-9">
             <div class="box-inner">
                 <div class="box-header well" data-original-title="">
-                    <center><h2>  The Functions of Public Employment Service Office  </h2></center>
+                    <center><h2></h2></center>
 
                 </div>
                 <div class="box-content">
